@@ -1,0 +1,1 @@
+cmd_/home/unnar/assignment4_2/mydev1/mydev.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/unnar/assignment4_2/mydev1/mydev.ko /home/unnar/assignment4_2/mydev1/mydev.o /home/unnar/assignment4_2/mydev1/mydev.mod.o;  true
